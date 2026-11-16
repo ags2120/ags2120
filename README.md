@@ -64,11 +64,9 @@ Durante mi formación he participado en proyectos relacionados con:
 
 ## 📂 Proyectos Destacados
 
-🔹 TFG - Aplicación de Realidad Aumentada
+🔹 [UA-ARData - Aplicación de Realidad Aumentada (Trabajo de Final de Grado)](https://github.com/ags2120/TFG)
 
-🔹 Aplicación de Reconocimiento Facial
-
-🔹 Aplicación Web Angular + Laravel
+🔹 [Aplicación de Reconocimiento Facial] (https://github.com/ags2120/Reconocimiento_Facial_Unity)
 
 🔹 [TFM - FutsalInside (Angular + Laravel)](https://github.com/ags2120/TFM_FutsalInside)
 
