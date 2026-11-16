@@ -35,6 +35,27 @@ Durante mi formación he participado en proyectos relacionados con:
 
 ---
 
+---
+
+## 📂 Proyectos Destacados
+
+### 🌐 FutsalInside
+Aplicación web desarrollada como Trabajo Fin de Máster utilizando Angular, Laravel y MySQL.
+
+🔗 [Ver proyecto](https://github.com/ags2120/TFG)
+
+### 🌍 UA-ARData 
+Aplicación móvil de realidad aumentada geolocalizada desarrollada como Trabajo Fin de Grado utilizando Unity y ARCore.
+
+🔗 [Ver proyecto](https://github.com/ags2120/Reconocimiento_Facial_Unity)
+
+### 👁️ Reconocimiento Facial
+Aplicación desarrollada durante prácticas curriculares utilizando Unity, C# y OpenCV.
+
+🔗 [Ver proyecto](https://github.com/ags2120/TFM_FutsalInside)
+
+---
+
 ## 🛠️ Tecnologías
 
 ### Frontend
@@ -60,27 +81,15 @@ Durante mi formación he participado en proyectos relacionados con:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
----
-
-## 📂 Proyectos Destacados
-
-🔹 [UA-ARData - Aplicación de Realidad Aumentada (Trabajo de Final de Grado)](https://github.com/ags2120/TFG)
-
-🔹 [Aplicación de Reconocimiento Facial](https://github.com/ags2120/Reconocimiento_Facial_Unity)
-
-🔹 [TFM - FutsalInside (Angular + Laravel)](https://github.com/ags2120/TFM_FutsalInside)
 
 ---
 
-## 📈 Objetivos
+## 📫 Contacto
 
-✅ Continuar desarrollándome como Frontend Developer
+📧 gomez09t@gmail.com
 
-✅ Profundizar en Angular y TypeScript
+💼 [LinkedIn](www.linkedin.com/in/alejandro-gomez-6bb8aa283)
 
-✅ Participar en proyectos reales de desarrollo web
-
-✅ Aprender nuevas arquitecturas y buenas prácticas de desarrollo
 
 ---
 
