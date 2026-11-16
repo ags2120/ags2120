@@ -42,17 +42,17 @@ Durante mi formación he participado en proyectos relacionados con:
 ### 🌐 FutsalInside
 Aplicación web desarrollada como Trabajo Fin de Máster utilizando Angular, Laravel y MySQL.
 
-🔗 [Ver proyecto](https://github.com/ags2120/TFG)
+🔗 [Ver proyecto](https://github.com/ags2120/TFM_FutsalInside)
 
 ### 🌍 UA-ARData 
 Aplicación móvil de realidad aumentada geolocalizada desarrollada como Trabajo Fin de Grado utilizando Unity y ARCore.
 
-🔗 [Ver proyecto](https://github.com/ags2120/Reconocimiento_Facial_Unity)
+🔗 [Ver proyecto](https://github.com/ags2120/TFG)
 
 ### 👁️ Reconocimiento Facial
 Aplicación desarrollada durante prácticas curriculares utilizando Unity, C# y OpenCV.
 
-🔗 [Ver proyecto](https://github.com/ags2120/TFM_FutsalInside)
+🔗 [Ver proyecto](https://github.com/ags2120/Reconocimiento_Facial_Unity)
 
 ---
 
